@@ -3,6 +3,7 @@
 ## Project Overview
 
 The Dynamic Mood Board Creator is a Rust-based application designed to automate the process of arranging and resizing a collection of images onto a virtual artboard. It intelligently positions images in a visually appealing manner, taking into consideration the dimensions of each image to ensure a harmonious and dynamic composition. This tool is perfect for creating digital collages, mood boards, or any project requiring the automatic arrangement of multiple images.
+[Sample.](https://nicetake.com/images/artboard_1710282529.jpg), [Sample.](https://nicetake.com/images/artboard_1710282624.jpg)
 
 ### Features
 
